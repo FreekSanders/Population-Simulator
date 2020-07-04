@@ -1,0 +1,15 @@
+﻿<Window x:Class="Population_Simulator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Population Simulator" Height="480" Width="560">
+    <Grid>
+        <Button Content="Simulate" HorizontalAlignment="Left" Margin="25,400,0,0" VerticalAlignment="Top" Width="121" Click="Button_Click"/>
+        <ScrollViewer HorizontalAlignment="Left" Margin="170,50,0,0" VerticalAlignment="Top" Height="373" Width="360">
+            <TextBlock Name="DisplayText" Text="" TextWrapping="Wrap" />
+        </ScrollViewer>
+        <Label Name="Header" Content="Year    Total       Military    Child Bearing Age" HorizontalAlignment="Left" Margin="170,19,0,0" VerticalAlignment="Top" Width="360"/>
+    </Grid>
+</Window>

@@ -1,0 +1,4 @@
+﻿// disclaimer: this is just a simulator.
+// default settings are taken from: https://www.jw.org/finder?wtlocale=E&docid=1200001458&srctype=wol&srcid=share&paragraph=21
+// not simulated is Pharaoh's decree, which seems to have been quite ineffective
+// https://www.jw.org/finder?wtlocale=E&docid=1200001458&srctype=wol&srcid=share&paragraph=24

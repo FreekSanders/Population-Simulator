@@ -1,0 +1,18 @@
+C:\src\private\Population Simulator\Population Simulator\bin\Debug\netcoreapp3.1\Population Simulator.exe
+C:\src\private\Population Simulator\Population Simulator\bin\Debug\netcoreapp3.1\Population Simulator.deps.json
+C:\src\private\Population Simulator\Population Simulator\bin\Debug\netcoreapp3.1\Population Simulator.runtimeconfig.json
+C:\src\private\Population Simulator\Population Simulator\bin\Debug\netcoreapp3.1\Population Simulator.runtimeconfig.dev.json
+C:\src\private\Population Simulator\Population Simulator\bin\Debug\netcoreapp3.1\Population Simulator.dll
+C:\src\private\Population Simulator\Population Simulator\bin\Debug\netcoreapp3.1\Population Simulator.pdb
+C:\src\private\Population Simulator\Population Simulator\obj\Debug\netcoreapp3.1\Population Simulator.csprojAssemblyReference.cache
+C:\src\private\Population Simulator\Population Simulator\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\src\private\Population Simulator\Population Simulator\obj\Debug\netcoreapp3.1\App.g.cs
+C:\src\private\Population Simulator\Population Simulator\obj\Debug\netcoreapp3.1\Population Simulator_MarkupCompile.cache
+C:\src\private\Population Simulator\Population Simulator\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\src\private\Population Simulator\Population Simulator\obj\Debug\netcoreapp3.1\Population Simulator.g.resources
+C:\src\private\Population Simulator\Population Simulator\obj\Debug\netcoreapp3.1\Population Simulator.AssemblyInfoInputs.cache
+C:\src\private\Population Simulator\Population Simulator\obj\Debug\netcoreapp3.1\Population Simulator.AssemblyInfo.cs
+C:\src\private\Population Simulator\Population Simulator\obj\Debug\netcoreapp3.1\Population Simulator.csproj.CoreCompileInputs.cache
+C:\src\private\Population Simulator\Population Simulator\obj\Debug\netcoreapp3.1\Population Simulator.dll
+C:\src\private\Population Simulator\Population Simulator\obj\Debug\netcoreapp3.1\Population Simulator.pdb
+C:\src\private\Population Simulator\Population Simulator\obj\Debug\netcoreapp3.1\Population Simulator.genruntimeconfig.cache
